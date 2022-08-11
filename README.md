@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=KimTa2Hwan&fontSize=70&animation=twinkling)
+
 <h3 align="center"> SNS List </h3>
 
 <p align=center>
@@ -28,4 +30,5 @@
 
 <p align=center>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimta2hwan&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/>
+  
 </p>
