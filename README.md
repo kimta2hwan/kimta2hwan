@@ -2,8 +2,12 @@
 
 <br>
 
-<!--<h3 align="center"> Tech Stack </h3>-->
+<H3 align="center">Hi there 👋</H3>
+
+<!--<h3 align="center"> 🛠 Tech Stack 🛠 </h3>-->
 <h3 align="center"> ✏️ Learning ✏️ </h3>
+
+<!--<H4 align="center">Techs that I've used at least once</H4>-->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-5382A1?logo=data:image/png;base64,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" alt="yourbadge">&nbsp;
@@ -22,6 +26,7 @@
 
 <br>
 
+<!--<h3 align="center"> How to reach me: ... </h3>-->
 <h3 align="center"> 📱 SNS List 📱 </h3>
 
 <p align=center>
