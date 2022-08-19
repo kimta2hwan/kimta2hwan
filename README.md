@@ -32,9 +32,9 @@
 <h3 align="center"> 📱 SNS List 📱 </h3>
 
 <p align=center>
-  <!--<a href="">-->
-  <img src="https://img.shields.io/badge/Tech Blog-181717?style=flat&logo=GitHub&logoColor=white"/>
-  <!--</a>-->&nbsp;
+  <a href="https://velog.io/@kimta2hwan">
+  <img src="https://img.shields.io/badge/Devlog-20C997?style=flat&logo=Velog&logoColor=white"/>
+  </a>&nbsp;
   
   <!--<a href="">-->
   <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/>
@@ -59,5 +59,4 @@
 
 <p align=center>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimta2hwan&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/>
-  
 </p>
