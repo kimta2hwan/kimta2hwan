@@ -33,7 +33,7 @@
 
 <p align=center>
   <a href="https://velog.io/@kimta2hwan">
-  <img src="https://img.shields.io/badge/Devlog-20C997?style=flat&logo=Velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Devlog-181717?style=flat&logo=GitHub&logoColor=white"/>
   </a>&nbsp;
   
   <!--<a href="">-->
