@@ -32,7 +32,7 @@
 <h3 align="center"> 📱 SNS List 📱 </h3>
 
 <p align=center>
-  <a href="https://kimta2hwan.github.io">
+  <a href="https://velog.io/@kimta2hwan">
   <img src="https://img.shields.io/badge/Devlog-181717?style=flat&logo=GitHub&logoColor=white"/>
   </a>&nbsp;
   
