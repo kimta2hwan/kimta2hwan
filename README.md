@@ -63,8 +63,9 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/kimta2hwan?pet-id=617236446909666205"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/kimta2hwan"
+  width="600"
+  height="300"
+/>
+</a>
